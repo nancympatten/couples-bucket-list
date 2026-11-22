@@ -920,6 +920,8 @@ def metadata(title, description, canonical, image=None):
 <title>{title}</title>
 <meta name="description" content="{description}">
 <meta name="rating" content="RTA-5042-1996-1400-1577-RTA" />
+<meta name="google-site-verification" content="Ee2L9A2G2nVVNtBt7HiplcBJf1nSen-Rcz4sNqLuAdc" />
+<meta name="msvalidate.01" content="4573069C62AEC27DA4F08DC57760BAD4" />
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="{canonical}">
 <meta property="og:type" content="website">
@@ -1013,6 +1015,23 @@ def footer():
             relationship inspiration. All activities should be
             consensual, safe, and appropriate for everyone involved.
         </p>
+        <section style="margin-top:35px;padding:28px 0;border-top:1px solid rgba(255,255,255,.10);">
+            <h3 style="margin:0 0 18px;color:#f7f2fa;font-size:20px;">
+                Explore Our Interactive Network
+            </h3>
+            <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;">
+                <a href="https://ai-girlfriend-prompts.velvetgrid.workers.dev" target="_blank" rel="noopener">AI Girlfriend Prompts</a>
+                <a href="https://couples-intimacy-games.velvetgrid.workers.dev" target="_blank" rel="noopener">Couples Intimacy Games</a>
+                <a href="https://fantasy-roleplay-hub.velvetgrid.workers.dev" target="_blank" rel="noopener">Fantasy Roleplay Hub</a>
+                <a href="https://character-persona-hub.velvetgrid.workers.dev" target="_blank" rel="noopener">Character Persona Hub</a>
+                <a href="https://flirty-chat-openers.velvetgrid.workers.dev" target="_blank" rel="noopener">Flirty Chat Openers</a>
+                <a href="https://midnight-audio-stories.velvetgrid.workers.dev" target="_blank" rel="noopener">Midnight Audio Stories</a>
+                <a href="https://spicy-party-games.velvetgrid.workers.dev" target="_blank" rel="noopener">Spicy Party Games</a>
+                <a href="https://intimacy-quiz-hub.velvetgrid.workers.dev" target="_blank" rel="noopener">Intimacy Quiz Hub</a>
+                <a href="https://couples-bucket-list.velvetgrid.workers.dev" target="_blank" rel="noopener">Couples Bucket List</a>
+                <a href="https://adult-ai-art-prompts.velvetgrid.workers.dev" target="_blank" rel="noopener">Adult AI Art Prompts</a>
+            </div>
+        </section>
     </div>
 </footer>
 """
